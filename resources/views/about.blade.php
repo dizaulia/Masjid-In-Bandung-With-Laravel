@@ -141,7 +141,7 @@
 							</div>
 							<div class="details">
 								<!--<a href="https://www.instagram.com/mochagustono/"> -->
-									<h4>Fariz Maulana Herman </h4>
+									<h4>Fariz Maulana H </h4>
 								</a>
 								<p>
 									NIM	: 1167050062
@@ -156,7 +156,7 @@
 							</div>
 							<div class="details">
 								<!--<a href="https://www.instagram.com/mochagustono/"> -->
-									<h4>Muhammad Adnan Nurussalam</h4>
+									<h4>Muhammad Adnan N</h4>
 								</a>
 								<p>
 									NIM	: 1167050095
@@ -172,7 +172,7 @@
 							</div>
 							<div class="details">
 								<!--<a href="https://www.instagram.com/mochagustono/"> -->
-									<h4>Muhammad Diza Aulia</h4>
+									<h4>Muhammad Diza A</h4>
 								</a>
 								<p>
 									NIM	: 11670500100
